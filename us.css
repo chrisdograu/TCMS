@@ -229,6 +229,7 @@ footer h1 {
     .thumbnails {
         flex-direction: row;
         margin-bottom: 15px;
+        max-witdh:80%;
     }
 
     .principal img {
